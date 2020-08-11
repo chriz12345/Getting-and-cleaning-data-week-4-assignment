@@ -1,4 +1,5 @@
 Code book for Coursera Getting and Cleaning Data course project
+
 The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 Step A : Download the dataset
